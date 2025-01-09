@@ -1,0 +1,21 @@
+Online-2
+Time:40minutes
+
+Write a Java program to check whether a number is Buzz or not.
+Write a Java program to calculate factorial of 12.
+Write a Java program for Fibonacci series.
+Write a Java program to reverse a number.
+Write a Java program to find all roots of a quadratic equation.
+Write a Java program to calculate the sum of natural numbers up to a certain range.
+Write a Java program to print all multiples of 10 between a given interval.
+Write a Java program to generate a multiplication table.
+Write a Java program to find HCF of two Numbers.
+
+Admission to a professional course is subject to the following conditions:
+	(a) marks in Mathematics >= 60 (b) marks in Physics >=50
+	(c) marks in Chemistry >=40 (d) Total in all 3 subjects >=200
+	(Or)
+
+	Total in Maths & Physics>=150
+
+	Given the marks in the 3 subjects of n (user input) students, write a program to process the applications to list the eligible candidates.
