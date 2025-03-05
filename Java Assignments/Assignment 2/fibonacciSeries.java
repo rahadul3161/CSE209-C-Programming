@@ -1,6 +1,6 @@
 //Write a Java program for Fibonacci series.
 
-public class Rahadul_3 {
+public class fibonacciSeries {
   public static void main(String[] args) {
     int n=15, firstnum=0, secondnum=1;
     System.out.print(firstnum+ ", ");
