@@ -1,6 +1,6 @@
 //1. Write a Java program to check whether a number is Buzz or not.
 
-public class Rahadul_1 {
+public class buzzNumber {
     public static void main(String[] args) {
         int num = 48;
         if ((num%10==7) || (num%7==0)) {
